@@ -16,6 +16,8 @@ The SNP loci file and indel files are suitable input for the SNP Swapper utility
 
 Recognized input file formats: k28.out (VAAL), NUCMER, VCF
 
+Nucmer output from show-snps should be run with the -ClrIT options to allow for proper interpretation by prephix.
+
 You may mix input file types within a single run/batch.
 
 
